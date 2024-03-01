@@ -8,7 +8,7 @@ Please provide your MetaMask wallet address:
 
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
-![螢幕擷取畫面 (212)](https://hackmd.io/_uploads/ryOIqSyTT.png)
+https://drive.google.com/file/d/1KH5UICR0wY_xLsrIAMpbnAZ-dG2MaQmk/view?usp=sharing
 
 
 ## Contract Address
@@ -17,4 +17,4 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-![螢幕擷取畫面 (211)](https://hackmd.io/_uploads/SJz0qSJpa.png)
+https://drive.google.com/file/d/1UymxpZv9YBVS49Jkonydy-MJzTCaUF0J/view?usp=sharing
